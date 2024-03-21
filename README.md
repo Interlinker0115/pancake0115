@@ -11,19 +11,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Web3+Technical+Writer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
 </p>
 
-
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Envoy_1084"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="envoy_"></a>
-<a href="https://discordapp.com/users/665550588582297622"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Envoy_#1852" ></a>
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
 ## About Me...
 
 - 🔗 I’m currently learning Blockchain
