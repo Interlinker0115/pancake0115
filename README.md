@@ -13,7 +13,7 @@
 
 - 🔗 I’m currently learning Blockchain
 - 👐 I’m looking to contribute to open source
-- 🥅 2022 Goals: Learn more about Blockchains and Solidity
+- 🥅 2024 Goals: Learn more about Solana and to complete satebot for metis.
 - ⚡ Fun fact: I love to play games
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
